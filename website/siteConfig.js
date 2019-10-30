@@ -22,7 +22,7 @@ const users = [
 
 const siteConfig = {
   title: 'Elite OMS', // Title for your website.
-  tagline: 'A website for docs',
+  tagline: 'A website for broadclass docs',
   url: 'http://oms.elitemba.cn', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
