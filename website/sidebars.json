@@ -4,7 +4,10 @@
     "First Category": ["doc2"],
     "Second Category": ["doc3"]
   },
+  "docs-help": {
+    "产品简介": ["helpDoc1", "helpDoc2"]
+  },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "First Category": ["doc4", "doc1"]
   }
 }
