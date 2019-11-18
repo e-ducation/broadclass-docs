@@ -16,12 +16,12 @@ const users = [
     // if it is not '/', like: '/test-site/img/image.jpg'.
     image: '/img/undraw_open_source.svg',
     infoLink: 'https://www.facebook.com',
-    pinned: true,
-  },
+    pinned: true
+  }
 ];
 
 const siteConfig = {
-  title: 'Elite OMS', // Title for your website.
+  title: '英荔播课', // Title for your website.
   tagline: 'A website for broadclass docs',
   url: 'http://oms.elitemba.cn', // Your website URL
   baseUrl: '/', // Base URL for your project */
@@ -38,24 +38,24 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'doc4', label: 'API'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    { doc: 'doc1', label: 'Docs' },
+    { doc: 'doc4', label: 'API' },
+    { doc: 'helpDoc1', label: '帮助' },
+    { blog: true, label: 'Blog' }
   ],
 
   // If you have users set above, you add it here:
   // users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
+  headerIcon: 'img/logo.svg',
   footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.svg',
 
   /* Colors for website */
   colors: {
-    primaryColor: '#915027',
-    secondaryColor: '#65381b',
+    primaryColor: '#006ce6',
+    secondaryColor: '#65381b'
   },
 
   /* Custom fonts for website */
@@ -77,7 +77,7 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: 'default'
   },
 
   // Add custom scripts here that would be placed in <script> tags.
@@ -90,7 +90,7 @@ const siteConfig = {
 
   // Open Graph and Twitter card images.
   ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
+  twitterImage: 'img/undraw_tweetstorm.svg'
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.
