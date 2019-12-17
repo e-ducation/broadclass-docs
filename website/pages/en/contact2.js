@@ -7,9 +7,9 @@ class Contact2 extends React.Component {
 
     return (
       <div className="mainContainer">
-        <img src={`${baseUrl}img/tiantian/1.png`} />
-        <img src={`${baseUrl}img/tiantian/2.png`} />
-        <img src={`${baseUrl}img/tiantian/3.png`} />
+        <img src={`${baseUrl}img/1.png`} />
+        <img src={`${baseUrl}img/2.png`} />
+        <img src={`${baseUrl}img/3.png`} />
         <img src={`${baseUrl}img/tiantian/4.png`} />
       </div>
     );

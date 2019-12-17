@@ -200,9 +200,9 @@ class Index extends React.Component {
       <div>
         {/* <HomeSplash siteConfig={siteConfig} language={language} /> */}
         <div className="mainContainer">
-          <img src={`${baseUrl}img/xiaohua/1.png`} />
-          <img src={`${baseUrl}img/xiaohua/2.png`} />
-          <img src={`${baseUrl}img/xiaohua/3.png`} />
+          <img src={`${baseUrl}img/1.png`} />
+          <img src={`${baseUrl}img/2.png`} />
+          <img src={`${baseUrl}img/3.png`} />
           <img src={`${baseUrl}img/xiaohua/4.png`} />
           {/* <Features />
           <FeatureCallout />
