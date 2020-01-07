@@ -6,7 +6,6 @@
  */
 
 const React = require('react');
-const axios = require('axios');
 
 const CompLibrary = require('../../core/CompLibrary.js');
 
